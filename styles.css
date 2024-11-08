@@ -15,8 +15,8 @@ body {
 .app {
     display: flex;
     flex-direction: column;  /* Optional: for vertical alignment */
-    width: 80%;  /* Adjust width */
-    height: 80%;  /* Adjust height */
+    width: 100%;  /* Adjust width */
+    height: 100%;  /* Adjust height */
     margin: auto;  /* Centers horizontally and vertically */
 }
 
